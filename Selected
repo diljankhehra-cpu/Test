@@ -1,0 +1,22 @@
+#EXTM3U x-tvg-url="https://mitthu786.github.io/tvepg/tataplay/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="ts138" ch-number="975" tvg-name="Nick",Nick
+https://mini.allinonereborn.fun/tata.php?id=11662
+
+#EXTINF:-1 tvg-id="ts691" ch-number="958" tvg-name="Sonic Nickelodeon",Sonic
+https://mini.allinonereborn.fun/tata.php?id=11667
+
+#EXTINF:-1 tvg-id="ts486" ch-number="977" tvg-name="Disney Channel",Disney Channel
+https://mini.allinonereborn.fun/tata.php?id=971
+
+#EXTINF:-1 tvg-id="ts559" ch-number="107" tvg-name="Sony SAB",Sony SAB
+https://mini.allinonereborn.fun/tata.php?id=11672
+
+#EXTINF:-1 tvg-id="ts991" ch-number="1195" tvg-name="PTC Simran",PTC Simran
+https://mini.allinonereborn.fun/tata.php?id=675
+
+#EXTINF:-1 tvg-id="ts840" ch-number="138" tvg-name="Sony PAL",Sony PAL
+https://mini.allinonereborn.fun/tata.php?id=666
+
+#EXTINF:-1 tvg-id="ts777" ch-number="1154" tvg-name="PTC Punjabi",PTC Punjabi
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
