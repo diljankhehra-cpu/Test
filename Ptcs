@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Punjabi",PTC Punjabi
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1HindiHD.in" tvg-name="Star Sports 1 Hindi HD" group-title="Sports",Star Sports 1 Hindi HD
+https://mini.allinonereborn.fun/tata.php?id=12149
