@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="channel1" tvg-name="Sample Channel" tvg-logo="https://example.com/logo.png" group-title="News",Sample Channel
+#EXTM3U
+
+#EXTINF:-1 tvg-id="channel1" tvg-name="Sample Channel" tvg-logo="https://example.com/logo.png" group-title="News",Sample Channel
+http://example.com/live/index.m3u8
