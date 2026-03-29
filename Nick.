@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1,Nick
+http://[2409:4090:d085:421c:205b:ba13:cbdb:5eae]:8080/Nick/index.m3u8
